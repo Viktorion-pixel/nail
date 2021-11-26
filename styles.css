@@ -1,0 +1,17 @@
+body {
+    background:palevioletred;
+    color: yellow;
+    font-size: 15px;
+    font-weight: normal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* или сокращенный вариант работы со шрифтами
+    font: normal 16px 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif */
+    /* roboto гугл фонтс - скопировать шрифот со стороннего сайта через @import*/
+
+}
+
+.prim {
+    width: 200px;
+    border-radius: 5%;
+    height: 200px;
+}
